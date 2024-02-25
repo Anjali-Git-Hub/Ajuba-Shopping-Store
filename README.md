@@ -35,10 +35,15 @@ Built using:
 The  [Live Link](https://ajuba-shopping-store-app.netlify.app/)
  demonstrates various features implemented within the application. 
 
+https://github.com/Anjali-Git-Hub/Ajuba-Shopping-Store/assets/122084921/1b5f8713-096b-4840-9b26-1fe9ee71300d
+
+
+<hr>
 
   In the /shopping store app, you can run:
 
 ### `npm install`
+
 If you haven't installed dependencies yet, you can do so by navigating to your project directory in the command line and running.
 
 ### `npm run dev`
