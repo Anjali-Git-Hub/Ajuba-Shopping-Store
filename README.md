@@ -7,7 +7,7 @@ Built using:
 - Front-end library: React
   - useReducer hook
   - useContext hook
-  - toastify library
+  - react-toastify library
   - react-icons library
   - css modules
   - react portals 
